@@ -1,6 +1,7 @@
 # Patient Health Data Analysis
 
 A beginner data science project analyzing the UCI Heart Disease dataset. Covers data cleaning, exploratory analysis, and a baseline logistic regression model to predict heart disease, with an honest evaluation of the model's strengths and limitations.
+📓 [View notebook with outputs](https://colab.research.google.com/github/maryamsajjad15/patient-health-data-analysis/blob/main/patient_health_analysis.ipynb)
 
 ## Dataset
 
